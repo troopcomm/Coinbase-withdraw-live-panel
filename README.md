@@ -21,6 +21,8 @@
 
 🐱‍🏍 ## Coinbase [EVILGINX2] withdraw.
 
+## UPDATE - Added: Withdrawal of all coins from the wallet.
+
 ## Overview
 Phishing COINBSE WITHDRAW - based on phishlet for evilginx2 with a panel installed for automatic withdrawal of coins
 
