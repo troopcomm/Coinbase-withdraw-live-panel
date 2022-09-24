@@ -11,7 +11,7 @@
 <a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-1.1.0-blue" ></a>  
 </p>
 <p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/price-1800$-brightgreen" ></a>  
+<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/price-1500$-brightgreen" ></a>  
 </p>
 <p align="center">
 
