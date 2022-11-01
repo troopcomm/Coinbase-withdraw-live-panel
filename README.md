@@ -56,4 +56,4 @@ Phishing occurs through a reverse proxy with a certificate installed on board, w
 
 ## DEVELOPER DO NOT SUPPORT ANY OF THE ILLEGAL ACTIVITIES.
 
-## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/TrewisWork#
+## Contact Me on telegram or twitter: https://twitter.com/TrewisScotch / https://t.me/inject_exp#
