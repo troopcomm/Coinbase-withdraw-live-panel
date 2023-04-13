@@ -16,8 +16,8 @@
 <p align="center">
 
 
-![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FTrewisScotch%2Fstatus%2F1450444029536129027%3Fs%3D20)
-![GitHub all releases](https://img.shields.io/github/downloads/trewisscotch/PHISHLET-EVILGINX2-/total?label=TREWIS%20%5BHIRO%5D%20SCOTCH&logo=C&style=for-the-badge)
+![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FInjectEXP%2Fstatus%2F1450444029536129027%3Fs%3D20)
+![GitHub all releases](https://img.shields.io/github/downloads/injectexp/PHISHLET-EVILGINX2-/total?label=inject%20%5BEXP%5D%20dev&logo=C&style=for-the-badge)
 
 🐱‍🏍 ## Coinbase [EVILGINX2] withdraw.
 
